@@ -1,6 +1,6 @@
 let prime=0;
 let num=99;
-for(let i=1; i>==num; i++){
+for(let i=1; i<=num; i++){
     if(num%i==0){
         prime++;
     }
